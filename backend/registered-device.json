@@ -1,0 +1,14 @@
+{
+  "registeredPhone": {
+    "owner": "Harikrishnak K",
+    "institution": "Vimal Jyothi Engineering College",
+    "phoneNumberMasked": "+91 94**** ***1",
+    "deviceModel": "PENDING_USER_INPUT",
+    "operatingSystem": "PENDING_USER_INPUT",
+    "browserEngine": "PENDING_USER_INPUT",
+    "userAgentSubstrings": [],
+    "uniqueDeviceKey": "VJEC-HK-PHONE-SECURE-KEY-8942",
+    "isAuthorized": true,
+    "registrationDate": "2026-10-11T17:48:00.000Z"
+  }
+}

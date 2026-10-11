@@ -1,0 +1,8 @@
+{
+  "name": "VJEC IdeaLock - Intellectual Property & Code Generator",
+  "description": "Official intellectual property registration, verification portal, and built-in QR Code and Barcode generator for Vimal Jyothi Engineering College innovations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
